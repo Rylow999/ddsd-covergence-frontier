@@ -1,4 +1,4 @@
-# Ddsd Convergence Frontier: A Computational Study of Dissipative Families Beyond Collatz
+# DDSD Convergence Frontier: A Computational Study of Dissipative Families Beyond Collatz
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
