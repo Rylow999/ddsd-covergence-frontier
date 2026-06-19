@@ -1,4 +1,6 @@
-# ddsd-convergence-frontier
+# Ddsd-convergence-frontier
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **The Convergence Frontier in Discrete Dynamical Systems: A Computational Study of Dissipative Families Beyond Collatz.**
 
