@@ -9,7 +9,7 @@
 
 **The Convergence Frontier in Discrete Dynamical Systems: A Computational Study of Dissipative Families Beyond Collatz.**
 
-This repository is a companion to [ddsd-framework](https://github.com/Rylow999/ddsd-framework). While the parent repository establishes the DDSD (Discrete Dynamical Systems Dissipation) framework and applies it to Collatz, 5x+1, perturbed families, critical maps, 2-adic variable fields, toy cryptographic hashes, and evolved maps, this repository extends the framework by:
+This repository is a companion to [DDSD-Framework](https://github.com/Rylow999/ddsd-framework). While the parent repository establishes the DDSD (Discrete Dynamical Systems Dissipation) framework and applies it to Collatz, 5x+1, perturbed families, critical maps, 2-adic variable fields, toy cryptographic hashes, and evolved maps, this repository extends the framework by:
 
 1. **Formalizing an observable embedding** $\Phi: \mathcal{D} \rightarrow \mathbb{R}^k$ that maps dynamical systems into a real vector space via computable statistics.
 2. **Defining the convergence frontier** as an emergent geometric structure in embedding space, induced by density clustering of systems with distinct statistical behaviors.
