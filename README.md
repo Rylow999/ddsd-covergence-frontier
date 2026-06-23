@@ -1,6 +1,11 @@
 # DDSD Convergence Frontier: A Computational Study of Dissipative Families Beyond Collatz
 
+**Author:** Luciano Benjamín Nieto  
+**Contact:** lucianobenjaminnieto@gmail.com  
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+---
 
 **The Convergence Frontier in Discrete Dynamical Systems: A Computational Study of Dissipative Families Beyond Collatz.**
 
